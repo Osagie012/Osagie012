@@ -72,7 +72,7 @@ I'm a passionate **Data Analyst** who enjoys transforming complex datasets into 
 ##  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/osagie-ogbewi-57925423b
-- Portfolio: 
+- Portfolio: Osagie012.github.io
 - Email: osagieogbewi80@gmail.com
 
 ---
